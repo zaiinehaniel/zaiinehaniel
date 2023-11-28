@@ -7,8 +7,6 @@
 I'm a dedicated and curious software engineer based in Goiânia, Goiás, Brasil. 
 
 ### 🔧 Technologies & Tools
-
-### Languages
 ![Python Icon](https://img.icons8.com/color/36/000000/python.png) &nbsp; 
 ![JavaScript Icon](https://img.icons8.com/color/36/000000/javascript.png) &nbsp; 
 ![SQL Icon](https://img.icons8.com/nolan/36/sql.png) &nbsp; 
